@@ -3,4 +3,6 @@
 
  ## My Skills
  ![](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,bootstrap,vite,github)
-![My protfolio](https://azeem-saifi.netlify.app/)
+ 
+ 
+[My protfolio](https://azeem-saifi.netlify.app/)
