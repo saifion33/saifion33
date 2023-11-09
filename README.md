@@ -14,10 +14,10 @@
 
 <div style={{display:'flex',align-items:'center'}}>
  <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tushar-Vagh&show_icons=true&theme=dark" alt="saifion33" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifion33&show_icons=true&theme=dark" alt="saifion33" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saifion33&theme=dark" alt="tushar" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saifion33&theme=dark" alt="" />
 </p>
 </div>
 &nbsp;
