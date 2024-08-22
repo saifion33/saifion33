@@ -10,7 +10,7 @@
 - 😄 portfolio:https://azeem-saifi.vercel.app
 
 ### Techs and tools I use:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,expressjs,mongodb,redux,vite,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,expressjs,mongodb,redux,vite,git,github,firebase,vscode)](https://skillicons.dev)
 
 <div style={{display:'flex',align-items:'center'}}>
  <p>
